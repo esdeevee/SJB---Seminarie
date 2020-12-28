@@ -12,8 +12,8 @@ Een getal dat de overeenkomende temperatuur voorstelt in °F.
 
 **Invoer:**
 
-Geef een temperatuur in °C: 25.5
+    Geef een temperatuur in °C: 25.5
 
 **Uitvoer:**
 
-25.5°C komt overeen met 77.9°F.
+    25.5°C komt overeen met 77.9°F.
