@@ -6,3 +6,21 @@ Schrijf een programma dat aan de gebruiker een temperatuur vraagt in °C. Je pro
 </div>
 
 Hier gaat het dan verder.
+
+### Voorbeeld
+
+**Invoer:**
+
+    9
+    9
+    7
+    1
+    5
+    0
+    2
+    1
+    0
+
+**Uitvoer:**
+
+    0
