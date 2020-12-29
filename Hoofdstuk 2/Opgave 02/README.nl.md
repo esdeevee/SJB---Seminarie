@@ -1,1 +1,1 @@
-In deze oefening moet de student de input inlezen, die input omzetten naar een getal, en daar vervolgens mathematische bewerkingen op doen (optellen en modulo) om uiteindelijk het eindresultaat terug uit te printen.
+Schrijf een programma dat aan de gebruiker de basis en de hoogte van een rechthoek vraagt. Je programma geeft dan als uitvoer de oppervlakte en de omtrek van deze rechthoek.
