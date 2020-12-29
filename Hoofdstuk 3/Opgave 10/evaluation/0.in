@@ -1,5 +1,5 @@
-25.5
--34
-100
-1001.43
--250
+>>> Geef een getal, of typ STOP: 3
+>>> Geef een getal, of typ STOP: 5
+>>> Geef een getal, of typ STOP: 1
+>>> Geef een getal, of typ STOP: STOP
+Het gemiddelde van deze getallen is 3.0

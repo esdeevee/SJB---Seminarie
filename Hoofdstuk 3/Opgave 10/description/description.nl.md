@@ -7,12 +7,12 @@ typt. Als dat gebeurt, toont je programma zowel het kleinste als het grootste in
 
 **Invoer:**
 
-  Geef een getal, of typ STOP: 3
-  Geef een getal, of typ STOP: 5
-  Geef een getal, of typ STOP: 1
-  Geef een getal, of typ STOP: STOP
+    Geef een getal, of typ STOP: 3
+    Geef een getal, of typ STOP: 5
+    Geef een getal, of typ STOP: 1
+    Geef een getal, of typ STOP: STOP
 
 **Uitvoer:**
 
-  Het kleinste getal is 1.
-  Het grootste getal is 5.
+    Het kleinste getal is 1.
+    Het grootste getal is 5.

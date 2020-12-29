@@ -1,11 +1,11 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 2 - Opgave 1"
+      "nl": "Hoofdstuk 3 - Opgave 10"
     }
   },
   "evaluation": {
-    "pythia_judge": "output",
+    "pythia_judge": "doctest",
     "memory_limit": 500000000
   },
   "labels": [
