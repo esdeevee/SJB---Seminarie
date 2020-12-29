@@ -8,4 +8,4 @@ block count: multi
 input block size: ends with STOP
 output block size: 2
 blockwise execution: true
-continue upon wrong answer: false
+continue upon wrong answer: true
