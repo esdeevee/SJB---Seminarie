@@ -5,7 +5,7 @@ Het grootste getal is 534564.
 ---------------------------------------------------------
 python input without prompt: true
 block count: multi
-ends with "STOP"
+ends with STOP
 output block size: 2
 blockwise execution: true
 continue upon wrong answer: false
