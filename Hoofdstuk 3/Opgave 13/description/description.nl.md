@@ -1,6 +1,6 @@
 ### Opgave
 
-Een naïeve (want extreem langzame) manier om  te benaderen, is door heel erg veel termen van volgende oneindige som (een zogenaamde reeksontwikkeling) uit te rekenen:
+Een naïeve (want extreem langzame) manier om $$\pi$$ te benaderen, is door heel erg veel termen van volgende oneindige som (een zogenaamde reeksontwikkeling) uit te rekenen:
 
 $$
 \frac{\pi}{4} = 1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \ldots
