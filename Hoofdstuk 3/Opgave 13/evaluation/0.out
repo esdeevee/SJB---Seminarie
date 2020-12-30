@@ -1,0 +1,11 @@
+Het kleinste getal is 1.
+Het grootste getal is 5.
+Het kleinste getal is -3843864.
+Het grootste getal is 534564.
+---------------------------------------------------------
+python input without prompt: true
+block count: multi
+input block size: ends with STOP
+output block size: 2
+blockwise execution: true
+continue upon wrong answer: true
