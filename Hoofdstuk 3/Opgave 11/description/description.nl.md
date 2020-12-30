@@ -5,7 +5,8 @@ Schrijf een programma dat een willekeurig getal genereert tussen 0 en 10. Laat d
 Om een random getal te genereren, kan je gebruik maken van volgende code:
 ```python
 from random import randint
-getal = randint(0,10) # randint = random integer
+getal = randint(0,10)
+# randint = random integer
 ```
 
 `randint(a,b)` genereert een (pseudo-)willekeurig getal n zodat a <= n <= b.
