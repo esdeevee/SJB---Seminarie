@@ -1,27 +1,16 @@
 ### Opgave
 
-Vraag aan de gebruiker een natuurlijk getal n. De uitvoer is de grootste
-priemfactor van dat getal. Je programma zegt er ook bij of n al dan niet een priemgetal is.
+Vraag aan de gebruiker een natuurlijk getal n. Beschouw dan alle termen van de rij van Fibonacci die strikt kleiner zijn dan n. De uitvoer moet de som zijn van alle termen die deelbaar zijn door 2.
 
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef een natuurlijk getal: 723350
+    Geef een natuurlijk getal: 80
 
 **Uitvoer:**
 
-    De grootste priemfactor van dit getal is 37
-    723350 is dus geen priemgetal.
+    44
 
-(Immers: $$723350 = 37 \cdot 23 \cdot 17 \cdot 5^2 \cdot 2.$$)
-
-**Invoer:**
-
-    Geef een natuurlijk getal: 709
-
-**Uitvoer:**
-
-    De grootste priemfactor van dit getal is 1
-    709 is dus een priemgetal!
+(Immers: de rij heeft als termen 1, 1, 2, 3, 5, 8, 13, 21, 34, 55. Daarvan zijn 2, 8 en 34 deelbaar door 2; 2 + 8 + 34 = 44.)
