@@ -27,6 +27,7 @@ Om een "" te printen, kan je volgend commando gebruiken:
 
     print("\"First, solve the problem. Then, write the code.\" – John Johnson")
 
+    "First, solve the problem. Then, write the code." – John Johnson
 
 Je zal voor deze opgave waarschijnlijk een nieuw commando nodig hebben. Probeer volgende code en de bijhorende uitvoer te begrijpen voor je aan deze opgave begint:
 
