@@ -12,3 +12,5 @@ Vraag aan de gebruiker een natuurlijk getal n. De uitvoer is de som van alle get
 **Uitvoer:**
 
     23
+
+(Immers: het gaat om de getallen 3, 5, 6, 9. De som van deze getallen is gelijk aan 23.)
