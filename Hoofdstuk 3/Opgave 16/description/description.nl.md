@@ -1,16 +1,17 @@
 ### Opgave
 
-Vraag aan de gebruiker een natuurlijk getal n. De uitvoer is de som van alle getallen strikt kleiner dan n, die deelbaar zijn door 3 of 5.
+Vraag aan de gebruiker een natuurlijk getal n. De uitvoer is de grootste
+priemfactor van dat getal.
 
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef een natuurlijk getal: 10
+    Geef een natuurlijk getal: 723350
 
 **Uitvoer:**
 
-    23
+    De grootste priemfactor van dit getal is 37
 
-(Immers: het gaat om de getallen 3, 5, 6, 9. De som van deze getallen is gelijk aan 23.)
+(Immers: $$723350 = 37 \cdot 23 \cdot 17 \cdot 5^2 \cdot 2.$$)
