@@ -23,20 +23,21 @@ Schrijf een programma dat vraagt om twee strings. Druk alle letters af die de st
 
     De strings "Python" en "is de max" hebben geen enkele letter gemeenschappelijk.
 
-Om een "" te printen, kan je volgend commando gebruiken:
+Om een aanhalingsteken (") te printen, kan je \" gebruiken:
 
-`print("\"First, solve the problem. Then, write the code.\" – John Johnson")`
+Het commando `print("\"First, solve the problem. Then, write the code.\" – John Johnson")` geeft als uitvoer
 
 `"First, solve the problem. Then, write the code." – John Johnson`
 
 Je zal voor deze opgave waarschijnlijk een nieuw commando nodig hebben. Probeer volgende code en de bijhorende uitvoer te begrijpen voor je aan deze opgave begint:
-
+```
     string = "seminarie"
     print("i" in string)
     print("t" in string)
     print("I" in string)
-
-
+```
+```
     True
     False
     False
+```
