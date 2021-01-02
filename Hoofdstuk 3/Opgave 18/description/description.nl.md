@@ -33,13 +33,14 @@ geeft dus als uitvoer
 
 Je zal voor deze opgave waarschijnlijk een nieuw commando nodig hebben. Probeer volgende code en de bijhorende uitvoer te begrijpen voor je aan deze opgave begint:
 ```
-    string = "seminarie"
-    print("i" in string)
-    print("t" in string)
-    print("I" in string)
+string = "seminarie"
+print("i" in string)
+print("t" in string)
+print("I" in string)
 ```
+
 ```
-    True
-    False
-    False
+True
+False
+False
 ```
