@@ -13,6 +13,5 @@ Probeer je grafisch voor te stellen op welke manier je aan je benadering komt. A
 
     Heel naïeve benadering van pi: 3.1415826535897198
     Afwijking t.o.v. pi: 1.0000000073340232e-05
-    Iets minder maar nog steeds erg naïeve benadering van pi:
-    3.1415926536397203
+    Iets minder maar nog steeds erg naïeve benadering van pi: 3.1415926536397203
     Afwijking t.o.v. pi: 4.992717350660314e-11
