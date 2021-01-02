@@ -31,14 +31,15 @@ geeft dus als uitvoer
 
 `"First, solve the problem. Then, write the code." – John Johnson`
 
-Je zal voor deze opgave waarschijnlijk een nieuw commando nodig hebben. Probeer volgende code en de bijhorende uitvoer te begrijpen voor je aan deze opgave begint:
+Je zal voor deze opgave waarschijnlijk een nieuw commando nodig hebben. Probeer volgende code en de bijhorende uitvoer te begrijpen voor je aan deze opgave begint.
+
 ```
 string = "seminarie"
 print("i" in string)
 print("t" in string)
 print("I" in string)
 ```
-
+geeft als uitvoer
 ```
 True
 False
