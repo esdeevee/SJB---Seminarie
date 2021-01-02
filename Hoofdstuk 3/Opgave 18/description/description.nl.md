@@ -21,7 +21,7 @@ Je zal voor deze opgave waarschijnlijk een nieuw commando nodig hebben. Probeer 
     print("i" in string)
     print("t" in string)
     print("I" in string)
-    
+
     True
     False
     False
