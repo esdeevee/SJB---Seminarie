@@ -23,9 +23,11 @@ Schrijf een programma dat vraagt om twee strings. Druk alle letters af die de st
 
     De strings "Python" en "is de max" hebben geen enkele letter gemeenschappelijk.
 
-Om een aanhalingsteken (") te printen, kan je \" gebruiken:
+Om een aanhalingsteken (") te printen, kan je \" gebruiken. Het commando
 
-Het commando `print("\"First, solve the problem. Then, write the code.\" – John Johnson")` geeft als uitvoer
+`print("\"First, solve the problem. Then, write the code.\" – John Johnson")`
+
+geeft dus als uitvoer
 
 `"First, solve the problem. Then, write the code." – John Johnson`
 
