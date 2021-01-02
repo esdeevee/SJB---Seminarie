@@ -1,6 +1,6 @@
 ### Opgave
 
-Schrijf een programma dat vraagt om twee woorden. Druk alle letters af die de woorden gemeen hebben. Je mag hoofdletters beschouwen als verschillend van kleine letters, maar iedere letter mag niet meer dan één keer gerapporteerd worden. Zo hebben de strings peer en een bijvoorbeeld slechts één letter gemeen, namelijk de letter e.
+Schrijf een programma dat vraagt om twee strings. Druk alle letters af die de strings gemeen hebben. Je mag hoofdletters beschouwen als verschillend van kleine letters, maar iedere letter mag niet meer dan één keer gerapporteerd worden. Zo hebben de strings peer en een bijvoorbeeld slechts één letter gemeen, namelijk de letter e.
 
 
 ### Voorbeeld
@@ -12,7 +12,20 @@ Schrijf een programma dat vraagt om twee woorden. Druk alle letters af die de wo
 
 **Uitvoer:**
 
-    De woorden seminarie en De Vusser hebben volgende letters gemeenschappelijk: e, s, r
+    De strings "seminarie" en "De Vusser" hebben volgende letters gemeenschappelijk: s, e, r
+
+**Invoer:**
+
+    Geef een eerste woord: Python
+    Geef een tweede woord: is de max!
+
+**Uitvoer:**
+
+    De strings "Python" en "is de max" hebben geen enkele letter gemeenschappelijk.
+
+Om een "" te printen, kan je volgend commando gebruiken:
+
+    print("\"First, solve the problem. Then, write the code.\" – John Johnson")
 
 
 Je zal voor deze opgave waarschijnlijk een nieuw commando nodig hebben. Probeer volgende code en de bijhorende uitvoer te begrijpen voor je aan deze opgave begint:
@@ -21,7 +34,8 @@ Je zal voor deze opgave waarschijnlijk een nieuw commando nodig hebben. Probeer 
     print("i" in string)
     print("t" in string)
     print("I" in string)
- 
+
+
     True
     False
     False

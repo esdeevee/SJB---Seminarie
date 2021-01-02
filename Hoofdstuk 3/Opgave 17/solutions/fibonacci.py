@@ -50,3 +50,5 @@ def fibonacci(n):
 for i in range(10):
   n = randint(1000,1000000)
   print(n, fibonacci(n))
+
+
