@@ -1,28 +1,17 @@
+from math import sqrt
+
 n = eval(input("Geef een natuurlijk getal: "))
+grootste = 1
 
-som = 0
-for i in range(n):
-    if(i% 3 == 0 or i%5 == 0): 
-        # print(i)
-        som = som + i
-print(som)
+#for i in range(2, int(sqrt(n))+1):
+for i in range(2, n):
+    while(n%i == 0):
+        n = n/i
+        #print(i)
+        grootste = i
 
-
-
-from random import randint
-
-def deelbaarsom(n):
-  som = 0
-  for i in range(n):
-    if(i% 3 == 0 or i%5 == 0): 
-      # print(i)
-      som = som + i
-  return(som)
-
-#print(deelbaarsom(10))
-#print("")
-
-for i in range(10):
-  n = randint(1000, 1000000)
-  print(n)
-  print(deelbaarsom(n))
+print("De grootste priemfactor van dit getal is", grootste)
+if(grootste == 1):
+    print(n, "is dus een priemgetal!")
+else:
+    print(n, "is dus geen priemgetal.")
