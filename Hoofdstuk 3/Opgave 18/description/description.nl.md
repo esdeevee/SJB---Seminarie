@@ -25,14 +25,6 @@ Schrijf een programma dat vraagt om twee strings. Druk alle letters af die de st
 
 ### Nieuwe commando's in deze opgave
 
-Om een aanhalingsteken (") te printen, kan je \" gebruiken. Het commando
-
-`print("\"First, solve the problem. Then, write the code.\" – John Johnson")`
-
-geeft dus als uitvoer
-
-`"First, solve the problem. Then, write the code." – John Johnson`
-
 Je zal voor deze opgave waarschijnlijk een nieuw commando nodig hebben. Probeer volgende code en de bijhorende uitvoer te begrijpen voor je aan deze opgave begint.
 
 ```
@@ -47,3 +39,11 @@ True
 False
 False
 ```
+
+Om een aanhalingsteken (") te printen, kan je `\"` gebruiken. Het commando
+
+`print("\"First, solve the problem. Then, write the code.\" – John Johnson")`
+
+geeft dus als uitvoer
+
+`"First, solve the problem. Then, write the code." – John Johnson`
