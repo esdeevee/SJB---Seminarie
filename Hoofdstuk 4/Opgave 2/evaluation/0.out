@@ -98,3 +98,10 @@ De schuine zijde heeft een lengte van 78.56844150166147
 De schuine zijde heeft een lengte van 144.5060552364502
 De schuine zijde heeft een lengte van 121.80722474467596
 De schuine zijde heeft een lengte van 19.026297590440446
+---------------------------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 2
+output block size: 1
+blockwise execution: true
+continue upon wrong answer: true
