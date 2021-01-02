@@ -1,5 +1,5 @@
 def aantaldagen(jaar, maand):
-  lijst_31 = ["januari", "maart", "mei", "juli", "augustus", "okober", "december"]
+  lijst_31 = ["januari", "maart", "mei", "juli", "augustus", "oktober", "december"]
   lijst_30 = ["april", "juni", "september", "november"]
   if(maand in lijst_31):
     aantal_dagen = 31
