@@ -1,7 +1,7 @@
 ### Opgave
 
 Opgave 13 is in feite een bijzonder slechte manier om $$\pi$$ te benaderen.
-Probeer je grafisch voor te stellen op welke manier je aan je benadering komt. Als je dit begrijpt, kan je je algoritme een klein beetje aanpassen, zodat je met dezelfde moeite en in dezelfde rekentijd toch een veel betere benadering voor $$\pi$$ kan vinden.
+Probeer je grafisch voor te stellen op welke manier je aan je benadering komt. Als je dit begrijpt, kan je je algoritme een klein beetje aanpassen, zodat je met dezelfde moeite en in dezelfde rekentijd toch een veel betere benadering voor $$\pi$$ kan vinden. Geef voor beide gevallen ook de afwijking ten opzichte van de waarde van $$\pi$$ die Python kent (gebruik `from math import pi`).
 
 ### Voorbeeld
 
