@@ -1,6 +1,6 @@
 ### Opgave
 
-Schrijf een programma dat vraagt om een natuurlijk getal. De bedoeling is om dit getal te reduceren naar één cijfer. Dat doe je door de som te nemen van alle cijfers van dit getal. Als die som bestaat uit meer dan één cijfer, blijf je verder werken, tot je uiteindelijk één enkel cijfer bekomt.
+Schrijf een programma dat vraagt om een natuurlijk getal. De bedoeling is om dit getal te reduceren naar één cijfer. Dat doe je door de som te nemen van alle cijfers van dit getal. Als die som op zijn beurt bestaat uit meer dan één cijfer, blijf je verder werken, tot je uiteindelijk één enkel cijfer bekomt.
 
 
 ### Voorbeeld
