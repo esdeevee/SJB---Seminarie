@@ -16,8 +16,8 @@ Voer het algoritme van Newton uit. Als uitvoer geeft je programma de benaderde w
 
 **Invoer:**
 
-    9
-    4
+    Geef een natuurlijk getal: 9
+    Geef een aantal decimalen: 4
 
 **Uitvoer:**
 
@@ -27,8 +27,8 @@ Voer het algoritme van Newton uit. Als uitvoer geeft je programma de benaderde w
 
 **Invoer:**
 
-    560
-    7
+    Geef een natuurlijk getal: 560
+    Geef een aantal decimalen: 7
 
 **Uitvoer:**
 
