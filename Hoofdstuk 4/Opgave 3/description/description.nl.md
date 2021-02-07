@@ -1,16 +1,16 @@
 ### Opgave
 
-Schrijf een programma dat vraagt naar de lengte van de twee rechthoekszijden
-van een rechthoekige driehoek. Je programma berekent en toont vervolgens de
-lengte van de schuine zijde. Maak hierbij minstens één keer gebruik van een functie.
+Schrijf een programma dat vraagt naar x- en y-coördinaten van twee punten in het x,y-vlak. Je programma berekent en toont dan de afstand tussen beide punten. Maak hierbij minstens één keer gebruik van een functie.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef de lengte van de eerste rechthoekszijde: 12
-    Geef de lengte van de tweede rechthoekszijde: 5
+    Geef de x-coördinaat van punt P: 1
+    Geef de y-coördinaat van punt P: 2
+    Geef de x-coördinaat van punt Q: -5
+    Geef de y-coördinaat van punt Q: 8
 
 **Uitvoer:**
 
-    De schuine zijde heeft een lengte van 13.0
+    De afstand |PQ| is gelijk aan 8.48528137423857
