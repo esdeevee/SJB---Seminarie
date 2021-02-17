@@ -12,8 +12,7 @@ Schrijf een programma dat de reële oplossingen van de vierkantsvergelijking ax^
 
 **Uitvoer:**
 
-    x1 = -3.23606797749979
-    x2 = 1.2360679774997898
+    x1 = -3.23606797749979 en x2 = 1.2360679774997898.
 
 **Invoer:**
 
