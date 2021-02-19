@@ -23,7 +23,7 @@
 8128 = 1 + 2 + 4 + 8 + 16 + 32 + 64 + 127 + 254 + 508 + 1016 + 2032 + 4064
 ---------------------------------------------------------
 python input without prompt: true
-block count: 1
+block count: multi
 input block size: 1
 output block size: multi
 blockwise execution: true
