@@ -99,8 +99,8 @@
 99 -24 16
 100 -12 21
 ---------------------------------------------------------
-python input without prompt: false
-block count: first line
+python input without prompt: true
+block count: 1
 input block size: 1
 output block size: 1
 blockwise execution: true
