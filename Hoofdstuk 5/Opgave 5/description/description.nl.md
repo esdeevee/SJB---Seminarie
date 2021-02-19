@@ -8,7 +8,7 @@ De kroeg waar de man start, ligt op locatie (0, 0). Je krijgt telkens een reeks 
 * Z: de dronkeman zet een stap omlaag, volgens de negatieve oriëntatie van de y-as;
 * W: de dronkeman zet een stap naar links, volgens de negatieve oriëntatie van de x-as.
 
-Gevraagd wordt om de eindpositie van de man na zijn wandeling te bepalen. Stel dat dat man volgende stappen zet:
+Gevraagd wordt om de eindpositie van de man na zijn wandeling te bepalen. Stel dat de man volgende stappen zet:
 
 O O N N N W W W W Z Z Z Z Z O O O W W W W W Z Z Z W W W,
 
