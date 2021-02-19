@@ -1,4 +1,4 @@
-### Opgave
+### Blokje om (VPW 2016)
 
 Een dronken man vertrekt ‘s avonds vanuit zijn favoriete kroeg. Hij weet echter niet meer waar hij heen moet en loopt doelloos rond in de stad. Na een paar uur komt hij eindelijk iemand tegen die hem hulp biedt. Op welke plaats in stad is de redding nabij?
 

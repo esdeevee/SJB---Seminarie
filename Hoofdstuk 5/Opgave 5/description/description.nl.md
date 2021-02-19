@@ -1,4 +1,4 @@
-### Opgave: Heuvelrace (VPW 2016)
+### Heuvelrace (VPW 2016)
 
 Je wil een nieuw spel, heuvelrace, op de markt brengen waarbij een heuvelend parcours wordt afgelegd met een wagentje. Het doel van het spel is zoveel mogelijk punten te scoren. Eén manier om punten te scoren is door snel een heuvel op te rijden om zo een sprong te maken met het wagentje. Hoe langer het wagentje in de lucht is tijdens een sprong, hoe meer punten de speler verzamelt.
 
