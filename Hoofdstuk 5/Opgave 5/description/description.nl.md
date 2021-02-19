@@ -12,7 +12,7 @@ Gevraagd wordt om de eindpositie van de man na zijn wandeling te bepalen. Stel d
 
 O O N N N W W W W Z Z Z Z Z O O O W W W W W Z Z Z W W W,
 
-dan eindigt hij in (−7, −5).
+dan eindigt hij in (−7, −5). Verifieer dit!
 
 De eerste regel van de invoer bevat steeds een geheel getal 1 ≤ n ≤ 1000 dat het aantal testgevallen aangeeft. Per geval volgt dan één regel met:
 * het aantal stappen s die de man zet;
