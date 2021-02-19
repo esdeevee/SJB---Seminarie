@@ -1,33 +1,38 @@
-### Heuvelrace (VPW 2016)
+### Blokje om (VPW 2016)
 
-Je wil een nieuw spel, heuvelrace, op de markt brengen waarbij een heuvelend parcours wordt afgelegd met een wagentje. Het doel van het spel is zoveel mogelijk punten te scoren. Eén manier om punten te scoren is door snel een heuvel op te rijden om zo een sprong te maken met het wagentje. Hoe langer het wagentje in de lucht is tijdens een sprong, hoe meer punten de speler verzamelt.
+Een dronken man vertrekt ‘s avonds vanuit zijn favoriete kroeg. Hij weet echter niet meer waar hij heen moet en loopt doelloos rond in de stad. Na een paar uur komt hij eindelijk iemand tegen die hem hulp biedt. Op welke plaats in stad is de redding nabij?
 
-Jouw taak is om te berekenen hoeveel punten de speler heeft verdiend met de sprongen die hij of zij heeft uitgevoerd. Het puntensysteem voor één sprong werkt als volgt:
-* Voor de eerste 4 seconden verdient men 25 punten per seconde;
-* de volgende 4 seconden leveren 100 punten per seconde op;
-* de daaropvolgende 4 seconden leveren 500 punten per seconde op;
-* hierna levert elke bijkomende seconde 1000 punten op.
+De kroeg waar de man start, ligt op locatie (0, 0). Je krijgt telkens een reeks stappen die de dronken man zet, aangegeven met de windrichtingen:
+* N: de dronkeman zet een stap omhoog, volgens de positieve oriëntatie van de y-as;
+* O: de dronkeman zet een stap naar rechts, volgens de positieve oriëntatie van de x-as;
+* Z: de dronkeman zet een stap omlaag, volgens de negatieve oriëntatie van de y-as;
+* W: de dronkeman zet een stap naar links, volgens de negatieve oriëntatie van de x-as.
 
-Een sprong van 11 seconden levert dus 25 + 25 + 25 + 25 + 100 + 100 + 100 + 100 + 500 + 500 + 500 = 2000 punten op.
+Gevraagd wordt om de eindpositie van de man na zijn wandeling te bepalen. Stel dat dat man volgende stappen zet:
 
-Alle getallen in de invoer die op dezelfde regel voorkomen, worden gescheiden door 1 enkele spatie. De eerste regel bevat het aantal opgaven n (1 ≤ n ≤ 100). Daarna volgen n opgaven. Elke opgave bestaat uit twee regels. Op de eerste regel staat het aantal sprongen s voor dit spel. Het aantal sprongen is steeds minstens één en is hoogstens 50. Op de tweede regel staan dan s strikt positieve natuurlijke getallen telkens van elkaar gescheiden door één enkele spatie; elk getal geeft de duur van een sprong in seconden.
+O O N N N W W W W Z Z Z Z Z O O O W W W W W Z Z Z W W W,
 
-De uitvoer bestaat uit n regels. Op elke regel staan twee natuurlijke getallen van elkaar gescheiden door één spatie. Het eerste getal is het volgnummer van de opgave. Het tweede getal is het totaal aantal punten verdiend in dit spel.
+dan eindigt hij in (−7, −5).
+
+De eerste regel van de invoer bevat steeds een geheel getal 1 ≤ n ≤ 1000 dat het aantal testgevallen aangeeft. Per geval volgt dan één regel met:
+* het aantal stappen s die de man zet;
+* per stap een letter die de richting aangeeft.
+Alle getallen en letters in de invoer die op dezelfde regel voorkomen, worden gescheiden door één enkele spatie.
+
+De uitvoer bestaat uit n regels, voor elk testgeval één. Elke regel bestaat uit drie getallen, gescheiden door één enkele spatie:
+* het eerste getal geeft het testgeval aan;
+* het tweede getal stelt de x-coördinaat van de eindpositie voor;
+* het derde getal stelt de y-coördinaat van de eindpositie voor.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    3
-    1
-    11
     2
-    13 1
-    3
-    2 6 10
+    3 N O Z
+    28 O O N N N W W W W Z Z Z Z Z O O O W W W W W Z Z Z W W W
 
 **Uitvoer:**
 
-    1 2000
-    2 3525
-    3 1850
+    1 1 0
+    2 -7 -5
