@@ -1,11 +1,11 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 5 - Opgave 1"
+      "nl": "Hoofdstuk 3 - Opgave 8"
     }
   },
   "evaluation": {
-    "pythia_judge": "doctest",
+    "pythia_judge": "output",
     "memory_limit": 500000000
   },
   "labels": [
@@ -13,7 +13,7 @@
   ],
   "access": "private",
   "internals": {
-    "token": "QzRwKcqfp8zhVQ3HWy9PZTQXnFrDDZjGyYYX39HB4FNvNdu4_8_cXkJ7MdtHmcP-",
+    "token": "aTAxcPTDdywksNX2UbkieuDsQuBSZSTSJSM2apjvHnDJqyBPWNpGZDzv8AA7n9-2",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

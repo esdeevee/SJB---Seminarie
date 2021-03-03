@@ -1,12 +1,16 @@
 ### Opgave
 
-Schrijf een programma dat het opgooien van twee eerlijke dobbelstenen simuleert. De gebruiker mag kiezen hoe vaak er "gegooid" wordt. Kijk bij Opgave 11 (p. 26) hoe je een (pseudo-)willekeurig getal kan genereren om het gooien van een dobbelsteen te simuleren. Bereken de som van het aantal ogen op beide dobbelstenen. Je programma toont dan een overzicht met de relatieve frequentie van elke mogelijke uitkomst.
+In deze opgave is het de bedoeling een programma te schrijven dat het opgooien van twee eerlijke dobbelstenen simuleert. De gebruiker mag kiezen hoe vaak er "gegooid" wordt. Kijk bij Opgave 11 (p. 26) hoe je een (pseudo-)willekeurig getal kan genereren om het gooien van één enkele dobbelsteen te simuleren.
 
-In de eenvoudigste versie van dit programma dreig je een monsterachtig grote lijst te genereren, waardoor het geheugen van de computer langzaam maar zeker vol loopt. Hoe zou je dit kunnen vermijden? Je zou deze efficiëntere oplossing in principe moeten kunnen implementeren, maar het hoeft niet.
+Schrijf een functie `dobbelstenen` die aan de gebruiker het aantal simulaties vraagt. Je code simuleert dan net zo vaak de som van twee dobbelstenen. De uitvoer bestaat uit een overzicht van de relatieve frequenties van de verschillende mogelijkheden.
 
-De gegenereerde uitvoer is uiteraard afhankelijk van het toeval. Dodona kan je code daarom niet automatisch evalueren (voor zover ik weet). Dien je code in via Dodona, en ik zal ze manueel nakijken.
+In een naïeve implementatie van deze opdracht dreig je een monsterachtig grote lijst te genereren, waardoor het geheugen van de computer langzaam maar zeker vol loopt. Hoe zou je dit kunnen vermijden? Je zou deze efficiëntere oplossing in principe moeten kunnen implementeren, maar het hoeft niet.
 
 ### Voorbeeld
+
+**Invoer:**
+
+    Geef het aantal simulaties: 100000
 
 **Uitvoer:**
 
