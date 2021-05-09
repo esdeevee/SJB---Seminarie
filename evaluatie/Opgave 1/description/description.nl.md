@@ -21,6 +21,7 @@ Let op: het gaat om een gesloten veelhoek. Het laatst ingevoerde hoekpunt wordt 
     3.414213562373095
 
 **Invoer:**
+
     2
     5
     4
