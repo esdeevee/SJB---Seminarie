@@ -1,8 +1,6 @@
 ### Opgave
 
-[I'm an inline-style link](https://www.google.com)
-
-https://github.com/vlaamseprogrammeerwedstrijd/opgaves/blob/master/2013/cat1/balans/balans.pdf
+[Hier vind je een link naar een pdf van de opgave (Vlaamse  programmeerwedstrijd 2013)](https://github.com/vlaamseprogrammeerwedstrijd/opgaves/blob/master/2013/cat1/balans/balans.pdf)
 
 Een balans is een soort weegschaal die enkel aangeeft of zij al dan niet in evenwicht is (aan elke zijde van de arm hangt dan een gelijk gewicht).
 
