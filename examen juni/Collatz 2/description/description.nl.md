@@ -10,12 +10,13 @@ De index van het eerste element in de rij dat kleiner is dan n, noemen we de sto
 
 ### Voorbeeld
 Voor n = 12 vind je de rij 12, 6, 3, 10, 5, 16, 8, 4, 2, 1. Het eerste element kleiner dan 12 is 6. De stoptijd is de index die hoort bij het element 6. 6 is het tweede element van de rij, dus de stoptijd van 12 is gelijk aan 2.
+
 Voor n = 19 vind je 19, 58, 29, 88, 44, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1. Het eerste element kleiner dan 19 is 11. De stoptijd is de index die hoort bij het element 11. 11 is het zevende element van de rij, dus de stoptijd van 12 is gelijk aan 7.
 
 ### Opgave
 Belangrijk: op lijn 1 van je programma staat een lijn commentaar met daarbij de namen van degenen die er aan meegewerkt hebben.
 
-Schrijf een programma dat vraagt naar een natuurlijk getal. Je programma berekent de stoptijd van dit getal. De uitvoer bestaat uit het getal
+Schrijf een programma dat vraagt naar een natuurlijk getal. Je programma berekent de stoptijd van dit getal. De uitvoer bestaat uit het getal zelf en de stoptijd van dat getal, van elkaar gescheiden door een spatie.
 
 ### Voorbeeld
 
@@ -25,7 +26,7 @@ Schrijf een programma dat vraagt naar een natuurlijk getal. Je programma bereken
 
 **Uitvoer:**
 
-    2
+    12 2
 
 **Invoer:**
 
@@ -33,4 +34,4 @@ Schrijf een programma dat vraagt naar een natuurlijk getal. Je programma bereken
 
 **Uitvoer:**
 
-    7
+    19 7
