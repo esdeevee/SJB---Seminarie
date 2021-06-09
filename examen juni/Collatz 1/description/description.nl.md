@@ -14,14 +14,19 @@ Voor n = 19 vind je 19, 58, 29, 88, 44, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 
 Schrijf een programma dat vraagt naar een natuurlijk getal. Je programma berekent 3 getallen: het maximum van de rij getallen, de index (het rangnummer) van het maximum in de rij, en het aantal termen in de rij. De uitvoer bestaat uit deze drie getallen, netjes op één lijn, van elkaar gescheiden door een spatie.
 
 ### Voorbeeld
+
 **Invoer:**
+
     12
 
 **Uitvoer:**
+
     16 6 10
 
 **Invoer:**
+
     19
 
 **Uitvoer:**
+
     88 4 21
