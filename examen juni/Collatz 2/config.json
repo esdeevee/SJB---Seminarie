@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Evaluatie 6D - 8u00 - Vraag 2"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output",
+    "memory_limit": 500000000
+  },
+  "labels": [
+
+  ],
+  "access": "private",
+  "internals": {
+    "token": "7-vBuQHdJnwQbYdFfXNwqtriEDPRzUs72ZX4G7r4xz9EWpN3jiEuPA-FqK7uqp3E",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
