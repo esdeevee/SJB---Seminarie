@@ -15,7 +15,6 @@ Elke opgave bestaat uit drie regels: eerst een regel met een getal t (1 ≤ t �
 De uitvoer bestaat uit n regels: één regel per opgave. Op elke regel staat eerst de waarde van het testgewicht, daarna een spatie, gevolgd door het woord "JA" of het woord "NEEN". Wanneer voor het testgewicht in kwestie de balans in evenwicht kan gebracht worden met twee van de beschikbare gewichten wordt "JA" afgedrukt, in het andere geval "NEEN".
 
 ### Voorbeeld
-
 **Invoer:**
 
     5
