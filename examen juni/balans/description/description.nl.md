@@ -18,7 +18,7 @@ De uitvoer bestaat uit n regels: één regel per opgave. Op elke regel staat eer
 
 ### Voorbeeld
 
-    **Invoer:**
+**Invoer:**
 
     5
     10
@@ -37,7 +37,7 @@ De uitvoer bestaat uit n regels: één regel per opgave. Op elke regel staat eer
     3 9 7 5 15
     6    
 
-    **Uitvoer:**
+**Uitvoer:**
 
     3 JA
     13 NEEN
