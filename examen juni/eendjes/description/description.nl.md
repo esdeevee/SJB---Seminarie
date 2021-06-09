@@ -18,6 +18,7 @@ Per spel moet de positie worden gevonden van het eerste van vier opeenvolgende e
 
 ### Voorbeeld
 In onderstaand voorbeeld wordt er 2 keer gespeeld en komen er per spel 10 eendjes voorbij.
+
 **Invoer:**
 
     2
