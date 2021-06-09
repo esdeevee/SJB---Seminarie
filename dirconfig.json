@@ -2,7 +2,7 @@
   "visibility": "private",
   "evaluation": {
     "handler": "python",
-    "time_limit": 15,
+    "time_limit": 45,
     "memory_limit": 1000000000
   },
   "programming_language": "python",
