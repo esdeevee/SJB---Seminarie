@@ -1,5 +1,7 @@
 ### Opgave
 
+https://github.com/vlaamseprogrammeerwedstrijd/opgaves/blob/master/2013/cat1/balans/balans.pdf
+
 Een balans is een soort weegschaal die enkel aangeeft of zij al dan niet in evenwicht is (aan elke zijde van de arm hangt dan een gelijk gewicht).
 
 Je krijgt een reeks beschikbare gewichten en je moet een programma schrijven dat bepaalt of een balans met aan de ene zijde een bepaald testgewicht (in kilogram) in evenwicht kan gebracht worden door precies twee beschikbare gewichten aan de andere zijde van de balans te plaatsen. Stel dat de volgende gewichten beschikbaar zijn (in kilogram):
@@ -12,7 +14,7 @@ De eerste regel bevat een getal n (1 ≤ n ≤ 250) en stelt het aantal opgaven 
 Elke opgave bestaat uit drie regels: eerst een regel met een getal t (1 ≤ t ≤ 1000). Dit stelt het aantal beschikbare gewichten voor. Dan volgt een regel met t gehele getallen, gescheiden door spaties. Dit zijn de beschikbare gewichten (in kilogram). In de invoer zullen alle gewichten verschillend zijn. Het maximale gewicht dat kan worden gebruikt bedraagt 10000 kg. Uiteindelijk komt er een regel met een getal k (1 ≤ k ≤ 20000) dat het testgewicht aangeeft.
 
 ### Uitvoer
-De uitvoer bestaat uit n regels: één regel per opgave. Op elke regel staat eerst de waarde van het testgewicht, daarna een spatie, gevolgd door het woord "JA" of het woord "NEEN". Wanneer voor het testgewicht in kwestie de balans in evenwicht kan gebracht worden met twee van de beschikbare gewichten wordt "JA" afgedrukt, in het andere geval "NEEN". 
+De uitvoer bestaat uit n regels: één regel per opgave. Op elke regel staat eerst de waarde van het testgewicht, daarna een spatie, gevolgd door het woord "JA" of het woord "NEEN". Wanneer voor het testgewicht in kwestie de balans in evenwicht kan gebracht worden met twee van de beschikbare gewichten wordt "JA" afgedrukt, in het andere geval "NEEN".
 
 ### Voorbeeld
 
