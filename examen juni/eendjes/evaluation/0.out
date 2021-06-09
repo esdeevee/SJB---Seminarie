@@ -100,7 +100,7 @@
 ---------------------------------------------------------
 python input without prompt: true
 block count: first line
-input block size: first line
+input block size: 13
 output block size: 1
 blockwise execution: true
 continue upon wrong answer: true
