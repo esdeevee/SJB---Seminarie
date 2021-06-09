@@ -5,7 +5,9 @@
 Een balans is een soort weegschaal die enkel aangeeft of zij al dan niet in evenwicht is (aan elke zijde van de arm hangt dan een gelijk gewicht).
 
 Je krijgt een reeks beschikbare gewichten en je moet een programma schrijven dat bepaalt of een balans met aan de ene zijde een bepaald testgewicht (in kilogram) in evenwicht kan gebracht worden door precies twee beschikbare gewichten aan de andere zijde van de balans te plaatsen. Stel dat de volgende gewichten beschikbaar zijn (in kilogram):
+
 3 9 7 5 15
+
 Wanneer er dan een testgewicht van 14 kg aan de ene zijde van de balans hangt, kunnen we deze in evenwicht brengen door de gewichten van 9 en 5 kilogram aan de andere zijde te plaatsen. Anderzijds kunnen we met die beschikbare gewichten de balans niet in evenwicht brengen wanneer er aan de ene zijde een testgewicht van 13 kilogram hangt. Ook voor bv. een testgewicht van 6 kilogram lukt dit niet aangezien we het beschikbare gewicht van 3 kilogram slechts eenmaal kunnen gebruiken.
 
 ### Invoer
