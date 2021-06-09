@@ -50,7 +50,7 @@
 15370 JA
 ---------------------------------------------------------
 python input without prompt: true
-block count: 1
+block count: first line
 input block size: 3
 output block size: 1
 blockwise execution: true
