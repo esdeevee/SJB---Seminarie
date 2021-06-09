@@ -1,7 +1,5 @@
 ### Opgave
 
-https://github.com/vlaamseprogrammeerwedstrijd/opgaves/blob/master/2013/cat1/balans/balans.pdf
-
 Een balans is een soort weegschaal die enkel aangeeft of zij al dan niet in evenwicht is (aan elke zijde van de arm hangt dan een gelijk gewicht).
 
 Je krijgt een reeks beschikbare gewichten en je moet een programma schrijven dat bepaalt of een balans met aan de ene zijde een bepaald testgewicht (in kilogram) in evenwicht kan gebracht worden door precies twee beschikbare gewichten aan de andere zijde van de balans te plaatsen. Stel dat de volgende gewichten beschikbaar zijn (in kilogram):
