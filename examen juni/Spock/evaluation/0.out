@@ -102,8 +102,7 @@
 102 0 0
 ---------------------------------------------------------
 python input without prompt: true
-block count: first line
-input block size: 3
+block count: one
 output block size: 1
 blockwise execution: true
 continue upon wrong answer: true
