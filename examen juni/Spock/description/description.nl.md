@@ -4,7 +4,7 @@ Je kent wellicht wel het spelletje blad-steen-schaar, waarbij twee spelers eerst
 
 Sam Kass en Karen Bryla bedachten een uitbreiding van dit klassieke spelletje, en noemden het blad-steen-hagedis-Spock-schaar (Rock, Paper, Scissors, Lizard, Spock). Het werkt volgens hetzelfde principe, maar er komen twee extra wapens bij: een hagedis (voorgesteld door met de hand een kousenpopachtige mond te vormen) en Spock (voorgesteld door de [Vulcaanse groet](http://nl.wikipedia.org/wiki/Vulcaanse_groet) uit de Star Trek reeks te maken). Hierdoor wordt de kans op een gelijkspel kleiner (van 1/3 naar 1/5). "Rock, Paper, Scissors, Lizard, Spock" komt een aantal keer voor in de heerlijke reeks [The Big Bang Theory](http://nl.wikipedia.org/wiki/The_Big_Bang_Theory_%28televisieserie%29).
 
-Klik [hier](https://www.youtube.com/watch?v=iSHPVCBsnLw) of [hier](https://www.youtube.com/watch?v=x5Q6-wMx-K8) voor een scene uit The Big Bang Theory.
+Klik [hier](https://www.youtube.com/watch?v=iSHPVCBsnLw) of [hier](https://www.youtube.com/watch?v=x5Q6-wMx-K8) voor een scène uit The Big Bang Theory.
 
 Bij een spelletje blad-steen-hagedis-Spock-schaar kiezen twee spelers een handgebaar, waarna ze beide hun keuze tegelijkertijd zichtbaar maken. De winnaar is diegene die de andere speler verslaat. De regels van blad-steen-hagedis-Spock-schaar zijn:
 
