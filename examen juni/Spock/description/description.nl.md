@@ -47,15 +47,15 @@ Voor elk spel worden drie getallen `i A B` afgedrukt op 1 regel, met een enkele 
 ### Voorbeeld
 **Invoer:**
 
-    `2
+    2
     5
     HPTCS
     TPCSH
     1
     H
-    H `   
+    H   
 
 **Uitvoer:**
 
-    `1 1 3
-    2 0 0`
+    1 1 3
+    2 0 0
