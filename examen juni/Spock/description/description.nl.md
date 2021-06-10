@@ -25,37 +25,37 @@ Er zijn vijftien mogelijke combinaties van de vijf handgebaren. Elk handgebaar v
 
 [Hier vind je een link naar een pdf van de opgave (Vlaamse  programmeerwedstrijd 2014).](https://github.com/vlaamseprogrammeerwedstrijd/opgaves/blob/master/2014/cat1/spock/spock.pdf)
 
-Een spelletje bestaat uit een aantal opeenvolgende ronden R. Tijdens elke ronde maken 2 spelers tegelijk een zet. Voor elke ronde, bereken welke speler de ronde wint op basis van de regels zoals beschreven hierboven. Bij winst krijgt een speler 1 punt. Bij verlies en gelijkspel 0 punten. Gevraagd wordt om de eindscore (= het totaal aantal punten verdiend over de R ronden) van beide spelers af te drukken.
+Een spelletje bestaat uit een aantal opeenvolgende ronden `R`. Tijdens elke ronde maken 2 spelers tegelijk een zet. Voor elke ronde, bereken welke speler de ronde wint op basis van de regels zoals beschreven hierboven. Bij winst krijgt een speler 1 punt. Bij verlies en gelijkspel 0 punten. Gevraagd wordt om de eindscore (= het totaal aantal punten verdiend over de `R` ronden) van beide spelers af te drukken.
 
 ### Invoer
 
-De eerste regel bevat een getal 1 ≤ N ≤ 1000 dat het aantal spellen aanduidt dat moet gespeeld worden. Elk spel wordt als volgt beschreven:
-* de eerste regel bevat een getal 0 ≤ R ≤ 1000 dat het aantal ronden aanduidt.
-* de tweede regel bevat de R zetten van speler 1, aangeduid als R opeenvolgende letters (zonder spaties).
-* de derde regel bevat de R zetten van speler 2.
+De eerste regel bevat een getal 1 ≤ `N` ≤ 1000 dat het aantal spellen aanduidt dat moet gespeeld worden. Elk spel wordt als volgt beschreven:
+* de eerste regel bevat een getal 0 ≤ `R` ≤ 1000 dat het aantal ronden aanduidt.
+* de tweede regel bevat de `R` zetten van speler 1, aangeduid als `R` opeenvolgende letters (zonder spaties).
+* de derde regel bevat de `R` zetten van speler 2.
 
 De zet van een speler wordt als volgt aangeduid:
-* H voor **H**agedis;
-* S voor **S**pock;
-* P voor **P**apier;
-* C voor S**c**haar;
-* T voor S**t**een.
+* `H` voor **`H`**agedis;
+* `S` voor **`S`**pock;
+* `P` voor **`P`**apier;
+* `C` voor S**`c`**haar;
+* `T` voor S**`t`**een.
 
 ### Uitvoer
-Voor elk spel worden drie getallen i A B afgedrukt op 1 regel, met een enkele spatie tussen. i is het volgnummer van het spel (te tellen vanaf 1). A is de totaalscore van speler 1. B is de totaalscore van speler 2.
+Voor elk spel worden drie getallen `i A B` afgedrukt op 1 regel, met een enkele spatie tussen. `i` is het volgnummer van het spel (te tellen vanaf 1). `A` is de totaalscore van speler 1. `B` is de totaalscore van speler 2.
 
 ### Voorbeeld
 **Invoer:**
 
-    2
+    `2
     5
     HPTCS
     TPCSH
     1
     H
-    H    
+    H `   
 
 **Uitvoer:**
 
-    1 1 3
-    2 0 0
+    `1 1 3
+    2 0 0`
