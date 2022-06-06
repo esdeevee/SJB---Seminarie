@@ -100,7 +100,7 @@
 5
 ---------------------------------------------------------
 python input without prompt: true
-block count: multi
+block count: first line
 input block size: first line
 output block size: 1
 blockwise execution: true
