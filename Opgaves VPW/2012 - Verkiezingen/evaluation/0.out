@@ -100,8 +100,6 @@
 0 11 11 8 13 14 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 ---------------------------------------------------------
 python input without prompt: true
-block count: first line
+block count: multi
 input block size: 3
 output block size: 1
-blockwise execution: true
-continue upon wrong answer: true
