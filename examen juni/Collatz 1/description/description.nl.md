@@ -8,7 +8,6 @@ Voor zover we geprobeerd hebben, gaat deze eigenschap op voor elk natuurlijk get
 
 ### Voorbeeld
 Voor `n` = 12 vind je de rij 12, 6, 3, 10, 5, 16, 8, 4, 2, 1.
-
 Voor `n` = 19 vind je 19, 58, 29, 88, 44, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1.
 
 ### Opgave
