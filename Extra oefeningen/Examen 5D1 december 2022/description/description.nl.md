@@ -1,6 +1,6 @@
 ### Inleiding
 
-Wanneer je in het spelletje **Risk** met je legers een naburig leger aanvalt volgt een spelletje met dobbelstenen tot één van de legers volledig uitgeroeid wordt. Het aantal beschikbare dobbelstenen hangt af van de rol die je speelt tijdens een aanval.
+Wanneer je in het spelletje **Risk** met je legers een naburig leger aanvalt, volgt een spelletje met dobbelstenen tot één van de legers volledig uitgeroeid wordt. Het aantal beschikbare dobbelstenen hangt af van de rol die je speelt tijdens een aanval.
 
 * 🅰, de aanvaller, beschikt over drie dobbelstenen;
 * 🆅, de verdediger, beschikt over twee dobbelstenen.
