@@ -40,14 +40,34 @@ Het is de bedoeling dat je het resultaat van een aanval bij Risk berekent. Doe d
 
 ### Voorbeeld
 
->>> tweede_hoogste(5, 3, 5)
-5
->>> tweede_hoogste(6, 1, 4)
-4
+**Invoer:**
 
->>> bereken_verlies(2, 6, 5, 2, 2)
-0
->>> bereken_verlies(4, 1, 4, 2, 5)
-1
->>> bereken_verlies(5, 2, 1, 5, 4)
-2
+    > tweede_hoogste(5, 3, 5)
+
+**Uitvoer:**
+
+    5
+
+**Invoer:**
+
+    > bereken_verlies(2, 6, 5, 2, 2)
+
+**Uitvoer:**
+
+    0
+
+**Invoer:**
+
+    > bereken_verlies(4, 1, 4, 2, 5)
+
+**Uitvoer:**
+
+    1
+
+**Invoer:**
+
+    > bereken_verlies(5, 2, 1, 5, 4)
+
+**Uitvoer:**
+
+    2
