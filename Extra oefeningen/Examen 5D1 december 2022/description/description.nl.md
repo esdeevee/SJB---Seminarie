@@ -44,6 +44,14 @@ Het is de bedoeling dat je het resultaat van een aanval bij Risk berekent. Doe d
 
 **Invoer:**
 
+    > tweede_hoogste(1, 6, 4)
+
+**Uitvoer:**
+
+    4
+
+**Invoer:**
+
     > tweede_hoogste(5, 3, 5)
 
 **Uitvoer:**
