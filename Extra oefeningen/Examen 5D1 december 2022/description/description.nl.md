@@ -10,7 +10,6 @@ Wanneer je in het spelletje **Risk** met je legers een naburig leger aanvalt vol
 Nadat beide spelers hun dobbelstenen geworpen hebben, sorteren ze eerst de dobbelstenen van groot naar klein.
 
 🅰 ⚅ ⚁ ⚀
-
 🆅 ⚄ ⚂
 
 Vervolgens vergelijken beide spelers de dobbelsteen met het hoogste aantal ogen. In dit geval wint de aanvaller want 6 is groter dan 5. De verdediger verliest één leger.
