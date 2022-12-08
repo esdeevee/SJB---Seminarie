@@ -38,7 +38,7 @@ Het is de bedoeling dat je het resultaat van een aanval bij Risk berekent. Doe d
 * Schrijf een functie `tweede_hoogste()` die drie natuurlijke getallen inleest. Deze getallen stellen de drie dobbelstenen voor van de aanvaller. De uitvoer van deze functie is het op één na hoogste getal van deze drie.
 * Schrijf vervolgens een functie `bereken_verlies()` die vijf natuurlijke getallen inleest. De eerste drie getallen stellen de drie dobbelstenen van de aanvaller voor. De twee laatste getallen stellen de dobbelstenen van de verdediger voor. De uitvoer van deze functie is het aantal legers dat de aanvaller verliest bij deze aanval.
 
-**Opgelet!** Het automatische evaluatiesysteem van Dodona raakt in de war als je - behalve je functiedefinitie - ook een hoofdprogramma schrijft. 
+**Opgelet!** Het automatische evaluatiesysteem van Dodona raakt in de war als je - behalve je functiedefinitie - ook een hoofdprogramma schrijft. Schrijf dus niet meer code dan gevraagd!
 
 ### Voorbeeld
 
