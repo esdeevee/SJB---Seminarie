@@ -11,7 +11,7 @@ $$
 ### Opgave
 
 Schrijf een functie `interpreteer_f()` die één parameter verwacht. Deze parameter stelt een x-waarde voor.
-* Als x een nulpunt is van de functie, geeft `interpreteer_f()` dit aan.
+* Als x een nulpunt is van $$f(x)$$, geeft `interpreteer_f()` dit aan.
 * Als x tot het domein van f behoort maar geen nulpunt is, geeft `interpreteer_f()` de functiewaarde voor x, afgerond op twee cijfers na de komma.
 * Als x niet tot het domein van f behoort, geeft `interpreteer_f()` dit ook aan.
 
