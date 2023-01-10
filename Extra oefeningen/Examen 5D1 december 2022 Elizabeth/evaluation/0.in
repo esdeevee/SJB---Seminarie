@@ -1,200 +1,299 @@
 >>> interpreteer_f(2)
 2 is een nulpunt van f(x)
->>> interpreteer_f(8.85)
-f(8.85) = 2.62
->>> interpreteer_f(-4.0)
--4.0 behoort niet tot dom f
->>> interpreteer_f(3.6)
-f(3.6) = 1.26
->>> interpreteer_f(-3.68)
--3.68 behoort niet tot dom f
->>> interpreteer_f(2.48)
-f(2.48) = 0.69
->>> interpreteer_f(-1.6)
--1.6 behoort niet tot dom f
->>> interpreteer_f(6.38)
-f(6.38) = 2.09
->>> interpreteer_f(-5.25)
--5.25 behoort niet tot dom f
->>> interpreteer_f(6.44)
-f(6.44) = 2.11
->>> interpreteer_f(-9.57)
--9.57 behoort niet tot dom f
->>> interpreteer_f(8.8)
-f(8.8) = 2.61
->>> interpreteer_f(-5.06)
--5.06 behoort niet tot dom f
->>> interpreteer_f(2.62)
-f(2.62) = 0.79
->>> interpreteer_f(-6.87)
--6.87 behoort niet tot dom f
->>> interpreteer_f(2.59)
-f(2.59) = 0.77
->>> interpreteer_f(-6.39)
--6.39 behoort niet tot dom f
->>> interpreteer_f(2.29)
-f(2.29) = 0.54
+
+>>> interpreteer_f(1.85)
+1.85 behoort niet tot dom f
+
+>>> interpreteer_f(-4.53)
+-4.53 behoort niet tot dom f
+
+>>> interpreteer_f(1.96)
+1.96 behoort niet tot dom f
+
+>>> interpreteer_f(-8.95)
+-8.95 behoort niet tot dom f
+
+>>> interpreteer_f(9.13)
+f(9.13) = 2.67
+
 >>> interpreteer_f(-5.62)
 -5.62 behoort niet tot dom f
->>> interpreteer_f(5.43)
-f(5.43) = 1.85
->>> interpreteer_f(-2.32)
--2.32 behoort niet tot dom f
->>> interpreteer_f(3.47)
-f(3.47) = 1.21
->>> interpreteer_f(-2.71)
--2.71 behoort niet tot dom f
->>> interpreteer_f(1.59)
-1.59 behoort niet tot dom f
->>> interpreteer_f(-1.64)
--1.64 behoort niet tot dom f
->>> interpreteer_f(1.02)
-1.02 behoort niet tot dom f
->>> interpreteer_f(-2.24)
--2.24 behoort niet tot dom f
->>> interpreteer_f(1.48)
-1.48 behoort niet tot dom f
->>> interpreteer_f(-1.38)
--1.38 behoort niet tot dom f
+
+>>> interpreteer_f(0.79)
+0.79 behoort niet tot dom f
+
+>>> interpreteer_f(-8.7)
+-8.7 behoort niet tot dom f
+
+>>> interpreteer_f(6.07)
+f(6.07) = 2.02
+
+>>> interpreteer_f(-5.07)
+-5.07 behoort niet tot dom f
+
+>>> interpreteer_f(2.48)
+f(2.48) = 0.69
+
+>>> interpreteer_f(-6.88)
+-6.88 behoort niet tot dom f
+
+>>> interpreteer_f(0.66)
+0.66 behoort niet tot dom f
+
+>>> interpreteer_f(-2.57)
+-2.57 behoort niet tot dom f
+
+>>> interpreteer_f(2.63)
+f(2.63) = 0.79
+
+>>> interpreteer_f(-0.73)
+-0.73 behoort niet tot dom f
+
+>>> interpreteer_f(5.09)
+f(5.09) = 1.76
+
+>>> interpreteer_f(-0.96)
+-0.96 behoort niet tot dom f
+
 >>> interpreteer_f(7.0)
 f(7.0) = 2.24
->>> interpreteer_f(-8.89)
--8.89 behoort niet tot dom f
->>> interpreteer_f(0.39)
-0.39 behoort niet tot dom f
->>> interpreteer_f(-3.41)
--3.41 behoort niet tot dom f
->>> interpreteer_f(5.77)
-f(5.77) = 1.94
->>> interpreteer_f(-5.31)
--5.31 behoort niet tot dom f
->>> interpreteer_f(5.61)
-f(5.61) = 1.9
->>> interpreteer_f(-1.17)
--1.17 behoort niet tot dom f
->>> interpreteer_f(6.52)
-f(6.52) = 2.13
->>> interpreteer_f(-3.15)
--3.15 behoort niet tot dom f
->>> interpreteer_f(2.37)
-f(2.37) = 0.61
->>> interpreteer_f(-7.43)
--7.43 behoort niet tot dom f
->>> interpreteer_f(9.42)
-f(9.42) = 2.72
->>> interpreteer_f(-7.58)
--7.58 behoort niet tot dom f
->>> interpreteer_f(3.51)
-f(3.51) = 1.23
->>> interpreteer_f(-5.75)
--5.75 behoort niet tot dom f
->>> interpreteer_f(8.26)
-f(8.26) = 2.5
->>> interpreteer_f(-5.5)
--5.5 behoort niet tot dom f
->>> interpreteer_f(6.09)
-f(6.09) = 2.02
->>> interpreteer_f(-0.38)
--0.38 behoort niet tot dom f
->>> interpreteer_f(5.21)
-f(5.21) = 1.79
->>> interpreteer_f(-2.24)
--2.24 behoort niet tot dom f
->>> interpreteer_f(6.26)
-f(6.26) = 2.06
->>> interpreteer_f(-1.71)
--1.71 behoort niet tot dom f
->>> interpreteer_f(8.89)
-f(8.89) = 2.62
->>> interpreteer_f(-0.38)
--0.38 behoort niet tot dom f
->>> interpreteer_f(1.87)
-1.87 behoort niet tot dom f
->>> interpreteer_f(-9.04)
--9.04 behoort niet tot dom f
->>> interpreteer_f(2.81)
-f(2.81) = 0.9
->>> interpreteer_f(-2.13)
--2.13 behoort niet tot dom f
->>> interpreteer_f(2.8)
-f(2.8) = 0.89
->>> interpreteer_f(-2.72)
--2.72 behoort niet tot dom f
->>> interpreteer_f(9.38)
-f(9.38) = 2.72
->>> interpreteer_f(-2.08)
--2.08 behoort niet tot dom f
->>> interpreteer_f(3.94)
-f(3.94) = 1.39
->>> interpreteer_f(-1.54)
--1.54 behoort niet tot dom f
->>> interpreteer_f(8.44)
-f(8.44) = 2.54
->>> interpreteer_f(-2.3)
--2.3 behoort niet tot dom f
->>> interpreteer_f(8.18)
-f(8.18) = 2.49
->>> interpreteer_f(-5.38)
--5.38 behoort niet tot dom f
->>> interpreteer_f(1.29)
-1.29 behoort niet tot dom f
->>> interpreteer_f(-2.56)
--2.56 behoort niet tot dom f
->>> interpreteer_f(1.04)
-1.04 behoort niet tot dom f
->>> interpreteer_f(-9.64)
--9.64 behoort niet tot dom f
->>> interpreteer_f(7.38)
-f(7.38) = 2.32
->>> interpreteer_f(-8.93)
--8.93 behoort niet tot dom f
->>> interpreteer_f(9.53)
-f(9.53) = 2.74
->>> interpreteer_f(-8.12)
--8.12 behoort niet tot dom f
->>> interpreteer_f(4.75)
-f(4.75) = 1.66
->>> interpreteer_f(-4.27)
--4.27 behoort niet tot dom f
->>> interpreteer_f(1.73)
-1.73 behoort niet tot dom f
->>> interpreteer_f(-9.9)
--9.9 behoort niet tot dom f
->>> interpreteer_f(9.1)
-f(9.1) = 2.66
->>> interpreteer_f(-4.3)
--4.3 behoort niet tot dom f
->>> interpreteer_f(1.87)
-1.87 behoort niet tot dom f
->>> interpreteer_f(-3.88)
--3.88 behoort niet tot dom f
->>> interpreteer_f(3.76)
-f(3.76) = 1.33
->>> interpreteer_f(-4.4)
--4.4 behoort niet tot dom f
->>> interpreteer_f(0.95)
-0.95 behoort niet tot dom f
->>> interpreteer_f(-4.15)
--4.15 behoort niet tot dom f
->>> interpreteer_f(5.4)
-f(5.4) = 1.84
->>> interpreteer_f(-8.1)
--8.1 behoort niet tot dom f
->>> interpreteer_f(7.94)
-f(7.94) = 2.44
->>> interpreteer_f(-2.89)
--2.89 behoort niet tot dom f
->>> interpreteer_f(0.31)
-0.31 behoort niet tot dom f
->>> interpreteer_f(-4.96)
--4.96 behoort niet tot dom f
->>> interpreteer_f(0.34)
-0.34 behoort niet tot dom f
->>> interpreteer_f(-2.72)
--2.72 behoort niet tot dom f
->>> interpreteer_f(8.36)
-f(8.36) = 2.52
->>> interpreteer_f(-2.18)
--2.18 behoort niet tot dom f
->>> interpreteer_f(9.6)
-f(9.6) = 2.76
+
+>>> interpreteer_f(-1.1)
+-1.1 behoort niet tot dom f
+
+>>> interpreteer_f(8.12)
+f(8.12) = 2.47
+
+>>> interpreteer_f(-0.26)
+-0.26 behoort niet tot dom f
+
+>>> interpreteer_f(7.35)
+f(7.35) = 2.31
+
+>>> interpreteer_f(-0.71)
+-0.71 behoort niet tot dom f
+
+>>> interpreteer_f(4.07)
+f(4.07) = 1.44
+
+>>> interpreteer_f(-4.43)
+-4.43 behoort niet tot dom f
+
+>>> interpreteer_f(1.14)
+1.14 behoort niet tot dom f
+
+>>> interpreteer_f(-1.81)
+-1.81 behoort niet tot dom f
+
+>>> interpreteer_f(8.29)
+f(8.29) = 2.51
+
+>>> interpreteer_f(-0.27)
+-0.27 behoort niet tot dom f
+
+>>> interpreteer_f(7.72)
+f(7.72) = 2.39
+
+>>> interpreteer_f(-7.63)
+-7.63 behoort niet tot dom f
+
+>>> interpreteer_f(2.41)
+f(2.41) = 0.64
+
+>>> interpreteer_f(-1.47)
+-1.47 behoort niet tot dom f
+
+>>> interpreteer_f(3.36)
+f(3.36) = 1.17
+
+>>> interpreteer_f(-3.17)
+-3.17 behoort niet tot dom f
+
+>>> interpreteer_f(3.33)
+f(3.33) = 1.15
+
+>>> interpreteer_f(-4.98)
+-4.98 behoort niet tot dom f
+
+>>> interpreteer_f(7.57)
+f(7.57) = 2.36
+
+>>> interpreteer_f(-7.35)
+-7.35 behoort niet tot dom f
+
+>>> interpreteer_f(3.59)
+f(3.59) = 1.26
+
+>>> interpreteer_f(-7.6)
+-7.6 behoort niet tot dom f
+
+>>> interpreteer_f(8.11)
+f(8.11) = 2.47
+
+>>> interpreteer_f(-5.4)
+-5.4 behoort niet tot dom f
+
+>>> interpreteer_f(9.17)
+f(9.17) = 2.68
+
+>>> interpreteer_f(-9.75)
+-9.75 behoort niet tot dom f
+
+>>> interpreteer_f(0.4)
+0.4 behoort niet tot dom f
+
+>>> interpreteer_f(-5.14)
+-5.14 behoort niet tot dom f
+
+>>> interpreteer_f(6.72)
+f(6.72) = 2.17
+
+>>> interpreteer_f(-8.79)
+-8.79 behoort niet tot dom f
+
+>>> interpreteer_f(5.25)
+f(5.25) = 1.8
+
+>>> interpreteer_f(-5.27)
+-5.27 behoort niet tot dom f
+
+>>> interpreteer_f(0.78)
+0.78 behoort niet tot dom f
+
+>>> interpreteer_f(-4.26)
+-4.26 behoort niet tot dom f
+
+>>> interpreteer_f(9.46)
+f(9.46) = 2.73
+
+>>> interpreteer_f(-2.82)
+-2.82 behoort niet tot dom f
+
+>>> interpreteer_f(8.28)
+f(8.28) = 2.51
+
+>>> interpreteer_f(-4.18)
+-4.18 behoort niet tot dom f
+
+>>> interpreteer_f(1.23)
+1.23 behoort niet tot dom f
+
+>>> interpreteer_f(-3.94)
+-3.94 behoort niet tot dom f
+
+>>> interpreteer_f(5.43)
+f(5.43) = 1.85
+
+>>> interpreteer_f(-1.02)
+-1.02 behoort niet tot dom f
+
+>>> interpreteer_f(2.42)
+f(2.42) = 0.65
+
+>>> interpreteer_f(-2.05)
+-2.05 behoort niet tot dom f
+
+>>> interpreteer_f(7.33)
+f(7.33) = 2.31
+
+>>> interpreteer_f(-9.28)
+-9.28 behoort niet tot dom f
+
+>>> interpreteer_f(8.39)
+f(8.39) = 2.53
+
+>>> interpreteer_f(-1.89)
+-1.89 behoort niet tot dom f
+
+>>> interpreteer_f(5.72)
+f(5.72) = 1.93
+
+>>> interpreteer_f(-0.03)
+-0.03 behoort niet tot dom f
+
+>>> interpreteer_f(8.79)
+f(8.79) = 2.61
+
+>>> interpreteer_f(-0.68)
+-0.68 behoort niet tot dom f
+
+>>> interpreteer_f(5.9)
+f(5.9) = 1.97
+
+>>> interpreteer_f(-4.86)
+-4.86 behoort niet tot dom f
+
+>>> interpreteer_f(1.55)
+1.55 behoort niet tot dom f
+
+>>> interpreteer_f(-1.8)
+-1.8 behoort niet tot dom f
+
+>>> interpreteer_f(3.96)
+f(3.96) = 1.4
+
+>>> interpreteer_f(-3.68)
+-3.68 behoort niet tot dom f
+
+>>> interpreteer_f(7.1)
+f(7.1) = 2.26
+
+>>> interpreteer_f(-9.15)
+-9.15 behoort niet tot dom f
+
+>>> interpreteer_f(1.44)
+1.44 behoort niet tot dom f
+
+>>> interpreteer_f(-7.65)
+-7.65 behoort niet tot dom f
+
+>>> interpreteer_f(7.11)
+f(7.11) = 2.26
+
+>>> interpreteer_f(-2.59)
+-2.59 behoort niet tot dom f
+
+>>> interpreteer_f(9.85)
+f(9.85) = 2.8
+
+>>> interpreteer_f(-9.72)
+-9.72 behoort niet tot dom f
+
+>>> interpreteer_f(5.02)
+f(5.02) = 1.74
+
+>>> interpreteer_f(-3.98)
+-3.98 behoort niet tot dom f
+
+>>> interpreteer_f(8.34)
+f(8.34) = 2.52
+
+>>> interpreteer_f(-7.01)
+-7.01 behoort niet tot dom f
+
+>>> interpreteer_f(7.0)
+f(7.0) = 2.24
+
+>>> interpreteer_f(-7.72)
+-7.72 behoort niet tot dom f
+
+>>> interpreteer_f(1.6)
+1.6 behoort niet tot dom f
+
+>>> interpreteer_f(-1.09)
+-1.09 behoort niet tot dom f
+
+>>> interpreteer_f(4.87)
+f(4.87) = 1.69
+
+>>> interpreteer_f(-8.54)
+-8.54 behoort niet tot dom f
+
+>>> interpreteer_f(5.69)
+f(5.69) = 1.92
+
+>>> interpreteer_f(-8.22)
+-8.22 behoort niet tot dom f
+
+>>> interpreteer_f(0.64)
+0.64 behoort niet tot dom f
