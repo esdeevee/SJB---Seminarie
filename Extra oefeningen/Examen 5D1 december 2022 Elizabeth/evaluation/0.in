@@ -1,4 +1,4 @@
->>> interpreteer(2)
+>>> interpreteer_f(2)
 2 is een nulpunt van f(x)
 >>> interpreteer_f(8.85)
 f(8.85) = 2.62
