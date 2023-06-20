@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 1 - Extra 3"
+      "nl": "Examen juni 2023 - Vraag 2"
     }
   },
   "evaluation": {
@@ -13,7 +13,7 @@
   ],
   "access": "public",
   "internals": {
-    "token": "nhJ7ArHGeWE5yADsnxwa2zH_hdYKv-B2ya594h2RZTcVsUIm3dC_z_Ie8pzJ4IAV",
+    "token": "fbFEnjczMpxMwb2an2v8U7Yqc2g3m7tfewJcyAWZjZkZMFdYzRV2Y22shqiVGHtJ",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
