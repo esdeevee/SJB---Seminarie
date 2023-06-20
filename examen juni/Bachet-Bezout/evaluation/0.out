@@ -98,3 +98,10 @@
 64878223649 * 529288119948 + -81494631335 * 421368530150 = 2
 -115818254152 * 780917927045 + 229500255951 * 394093464391 = 1
 -124952739794 * 742744131974 + 303622420063 * 305668844339 = 1
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 2
+output block size: 1
+blockwise execution: true
+continue upon wrong answer: true
