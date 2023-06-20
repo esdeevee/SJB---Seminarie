@@ -1,0 +1,10 @@
+6
+6
+6
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 100
+output block size: 1
+blockwise execution: true
+continue upon wrong answer: true
