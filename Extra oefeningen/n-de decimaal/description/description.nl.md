@@ -17,7 +17,7 @@ Het programma toont als uitvoer het $$\mathsf{n}$$-de cijfer na de komma van het
 
 **Invoer:**
 
-    -2.71828182846
+    -2.7182
     2
 
 **Uitvoer:**
