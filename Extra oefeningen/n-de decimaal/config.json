@@ -1,4 +1,7 @@
 {
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
   "description": {
     "names": {
       "nl": "n-de decimaal"
