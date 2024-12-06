@@ -6,7 +6,7 @@ Schrijf een programma dat de gebruiker vraagt om een natuurlijk getal in te voer
 
 **Invoer:**
 
-    3
+    Geef een natuurlijk getal: 3
 
 **Uitvoer:**
 
@@ -20,7 +20,7 @@ Schrijf een programma dat de gebruiker vraagt om een natuurlijk getal in te voer
 
 **Invoer:**
 
-    4
+    Geef een natuurlijk getal: 4
 
 **Uitvoer:**
 
@@ -37,7 +37,7 @@ Schrijf een programma dat de gebruiker vraagt om een natuurlijk getal in te voer
 
 **Invoer:**
 
-    8
+    Geef een natuurlijk getal: 8
 
 **Uitvoer:**
 
