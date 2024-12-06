@@ -8,8 +8,8 @@ Het programma toont als uitvoer het $$\mathsf{n}$$-de cijfer na de komma van het
 
 **Invoer:**
 
-    3.14159265359
-    7
+    Geef een kommagetal: 3.14159265359
+    Geef een cijfer: 7
 
 **Uitvoer:**
 
@@ -17,8 +17,8 @@ Het programma toont als uitvoer het $$\mathsf{n}$$-de cijfer na de komma van het
 
 **Invoer:**
 
-    -2.7182
-    2
+    Geef een kommagetal: -2.7182
+    Geef een cijfer: 2
 
 **Uitvoer:**
 
