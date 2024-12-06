@@ -17,9 +17,8 @@
     "float()",
     "floor division"
   ],
-  "access": "public",
   "internals": {
-    "token": "-IKGIwwg3s2GHvbjvYpdSEZkZnjYKZJ47-vhMHR_WX6hHc_QMQICaBCYMremc7gN",
+    "token": "-4g2RspyxnwDEywHcJwZfHhbZeVpimvzu8ys43fY35KEZGT2ThqWfMBd4KX362qU",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
