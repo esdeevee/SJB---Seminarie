@@ -14,8 +14,9 @@
   "labels": [
     "input()",
     "int()",
-    "float()",
-    "floor division"
+    "if",
+    "elif",
+    "else"
   ],
   "internals": {
     "token": "-4g2RspyxnwDEywHcJwZfHhbZeVpimvzu8ys43fY35KEZGT2ThqWfMBd4KX362qU",
