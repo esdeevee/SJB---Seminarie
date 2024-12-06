@@ -8,9 +8,9 @@ Het programma toont als uitvoer het aantal verschillende getallen.
 
 **Invoer:**
 
-    1
-    2
-    3
+    Geef een eerste getal: 1
+    Geef een tweede getal: 2
+    Geef een derde getal: 3
 
 **Uitvoer:**
 
@@ -20,9 +20,9 @@ Het programma toont als uitvoer het aantal verschillende getallen.
 
 **Invoer:**
 
-    7
-    4
-    7
+    Geef een eerste getal: 7
+    Geef een tweede getal: 4
+    Geef een derde getal: 7
 
 **Uitvoer:**
 
@@ -32,9 +32,9 @@ Het programma toont als uitvoer het aantal verschillende getallen.
 
 **Invoer:**
 
-    12
-    12
-    12
+    Geef een eerste getal: 12
+    Geef een tweede getal: 12
+    Geef een derde getal: 12
 
 **Uitvoer:**
 
