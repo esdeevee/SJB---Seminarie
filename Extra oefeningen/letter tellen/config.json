@@ -1,4 +1,7 @@
 {
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
   "description": {
     "names": {
       "nl": "Letter tellen"
@@ -6,17 +9,16 @@
   },
   "evaluation": {
     "pythia_judge": "output",
-    "memory_limit": 500000000
+    "memory_limit": 100000000
   },
   "labels": [
     "input()",
     "for",
-    "if",
-
+    "in"
   ],
-  "access": "private",
+  "access": "public",
   "internals": {
-    "token": "FUnY84AM_vkSKfjyiMSkRYhEKMnyR3vcf7IDcq2wDhfNSjIbw8gfXb6HqWHVcJB8",
+    "token": "-IKGIwwg3s2GHvbjvYpdSEZkZnjYKZJ47-vhMHR_WX6hHc_QMQICaBCYMremc7gN",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
