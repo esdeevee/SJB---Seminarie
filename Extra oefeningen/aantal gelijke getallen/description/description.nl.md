@@ -2,7 +2,7 @@
 
 Schrijf een programma dat de gebruiker vraagt om drie keer een natuurlijk getal in te voeren.
 
-Het programma toont als uitvoer het aantal verschillende getallen.
+Het programma toont als uitvoer het aantal gelijke getallen dat ingelezen werd. 
 
 ### Voorbeeld 1
 
