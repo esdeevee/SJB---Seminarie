@@ -552,4 +552,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ..X..........................X..
 .X............................X.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+---------------------------------------- 
+python input without prompt: true 
+block count: one 
+input block size: 1 
+output block size: ends with 
+blockwise execution: true 
+continue upon wrong answer: true
