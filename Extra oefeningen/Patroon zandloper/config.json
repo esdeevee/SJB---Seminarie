@@ -16,9 +16,8 @@
     "int()",
     "for"
   ],
-  "access": "public",
   "internals": {
-    "token": "-IKGIwwg3s2GHvbjvYpdSEZkZnjYKZJ47-vhMHR_WX6hHc_QMQICaBCYMremc7gN",
+    "token": "sdYZfGuJmHeWNEyJVtQZfghKh8Tepz-CjBwbw6gQC-gthmmEcT3Xsj4YuDAkQ3Jy",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
