@@ -554,7 +554,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ---------------------------------------- 
 python input without prompt: true 
-block count: one 
+block count: multi 
 input block size: 1 
 output block size: ends with 
 blockwise execution: true 
