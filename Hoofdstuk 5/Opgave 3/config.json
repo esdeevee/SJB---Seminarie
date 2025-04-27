@@ -1,17 +1,15 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 5 - Opgave 3"
+      "nl": "Perfecte getallen"
     }
   },
   "evaluation": {
     "pythia_judge": "output",
     "memory_limit": 500000000
   },
-  "labels": [
-
-  ],
-  "access": "private",
+  "labels": [],
+  "access": "public",
   "internals": {
     "token": "f9SCkFrD2i6Y-Ev_ccNJTzKYw4cQgzqpqvXVguPEaRqxKSrcCxt8eITVq7-QxGDe",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
