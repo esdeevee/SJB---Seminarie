@@ -8,12 +8,10 @@
     "pythia_judge": "output",
     "memory_limit": 500000000
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "access": "private",
   "internals": {
-    "token": "JEvm54_ZY5fyJMWxPBCGZMWmidbCyZAJv_mDR_5C8_t4w5jrFS8uNCDInJNCMgIQ",
+    "token": "dhqIuqJZt8bwYwuNe9JDnKwUFH_fH3dAn29fqgpgkSQ85hPEPHkbdwsYXcm7w7MD",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

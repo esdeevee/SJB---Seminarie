@@ -15,11 +15,9 @@
     "memory_limit": 10000000,
     "network_enabled": true
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "IAvbcnhIxyZr-enRcxA5zzm8VKXGPbRTe7T6BqsqWUSFN-XXU28_QfyyPkbf-DCe",
+    "token": "TDnQipGJP8c2Zw_yhSgDgfWj-q473v2DDU83fUfrPxCRynybd-2skfJed4XMIhxa",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
