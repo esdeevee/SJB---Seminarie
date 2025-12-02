@@ -9,7 +9,7 @@ Het programma toont als uitvoer het $$\mathsf{n}$$-de cijfer na de komma van het
 **Invoer:**
 
     Geef een kommagetal: 3.14159265359
-    Geef een cijfer: 7
+    Het hoeveelste cijfer na de komma wil je tonen: 7
 
 **Uitvoer:**
 
@@ -18,8 +18,8 @@ Het programma toont als uitvoer het $$\mathsf{n}$$-de cijfer na de komma van het
 **Invoer:**
 
     Geef een kommagetal: -2.7182
-    Geef een cijfer: 2
+    Het hoeveelste cijfer na de komma wil je tonen: 1
 
 **Uitvoer:**
 
-    1
+    7
